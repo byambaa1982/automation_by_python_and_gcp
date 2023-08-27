@@ -1,8 +1,15 @@
-# automation_by_python_and_gcp
+# Python Data Automation using Google Cloud Platform
+
+- Gmail Automation
+- Google Sheets Automation
 
 
-# used smaller size
 
 <div align="center">
   <img src="/images/gmail_400_200.png" alt="image" width="400" >
+</div>
+
+
+<div align="center">
+  <img src="/images/sheets_400_200.png" alt="image" width="400" >
 </div>
